@@ -15,6 +15,7 @@
 - [ResearchGate](https://www.researchgate.net/profile/Sony_Chen)
 - [LinkedIn](https://www.linkedin.com/in/sony-su-chen-ab92b796/)
 - [Google Scholar](https://scholar.google.com.br/citations?user=863GZT8AAAAJ&hl=pt-BR)
+- [Loop](https://loop.frontiersin.org/people/1871569/overview)
 
 ##
 
