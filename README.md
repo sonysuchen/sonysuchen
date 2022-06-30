@@ -9,13 +9,13 @@
   
 ## info
 
-- [ORCID](http://orcid.org/0000-0001-6307-7484)
+- [Google Scholar](https://scholar.google.com.br/citations?user=863GZT8AAAAJ&hl=pt-BR)
 - [Lattes](http://lattes.cnpq.br/0978954754409584)
+- [LinkedIn](https://www.linkedin.com/in/sony-su-chen-ab92b796/)
+- [Loop](https://loop.frontiersin.org/people/1871569/overview)
+- [ORCID](http://orcid.org/0000-0001-6307-7484)
 - [Publons](https://publons.com/researcher/2365517/sony-s-chen/)
 - [ResearchGate](https://www.researchgate.net/profile/Sony_Chen)
-- [LinkedIn](https://www.linkedin.com/in/sony-su-chen-ab92b796/)
-- [Google Scholar](https://scholar.google.com.br/citations?user=863GZT8AAAAJ&hl=pt-BR)
-- [Loop](https://loop.frontiersin.org/people/1871569/overview)
 
 ##
 
