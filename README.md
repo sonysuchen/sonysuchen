@@ -16,6 +16,7 @@
 - [ORCID](http://orcid.org/0000-0001-6307-7484)
 - [Publons](https://publons.com/researcher/2365517/sony-s-chen/)
 - [ResearchGate](https://www.researchgate.net/profile/Sony_Chen)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56591622000)
 
 ##
 
