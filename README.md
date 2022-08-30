@@ -14,9 +14,9 @@
 - [LinkedIn](https://www.linkedin.com/in/sony-su-chen-ab92b796/)
 - [Loop](https://loop.frontiersin.org/people/1871569/overview)
 - [ORCID](http://orcid.org/0000-0001-6307-7484)
-- [Publons](https://publons.com/researcher/2365517/sony-s-chen/)
 - [ResearchGate](https://www.researchgate.net/profile/Sony_Chen)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56591622000)
+- [Web of Science](https://www.webofscience.com/wos/author/record/277026)
 
 ##
 
