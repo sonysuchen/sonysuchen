@@ -4,7 +4,7 @@
 
 <!--- Published --->
 
-1. **Chen, S. S.**, Resende, L. C. A., Denardini, C. M., Chagas, R. A. J., Da Silva, L. A., Marchezi, J. P., Moro, J., Nogueira, P. A. B., Santos, A. M., Jauer, P. R., Carmo, C. S., Picanço, G. A. S., and Silva, R. P. (2022). The 14 December 2020 total solar eclipse effects on geomagnetic field variations and plasma density over South America. *Journal of Geophysical Research: Space Physics*, 128, e2022JA030775. *https://doi.org/10.1029/2022JA030775*
+1. **Chen, S. S.**, Resende, L. C. A., Denardini, C. M., Chagas, R. A. J., Da Silva, L. A., Marchezi, J. P., Moro, J., Nogueira, P. A. B., Santos, A. M., Jauer, P. R., Carmo, C. S., Picanço, G. A. S., and Silva, R. P. (2023). The 14 December 2020 total solar eclipse effects on geomagnetic field variations and plasma density over South America. *Journal of Geophysical Research: Space Physics*, 128, e2022JA030775. *https://doi.org/10.1029/2022JA030775*
 
 1. Resende, L. C. A., Zhu, Y., Denardini, C. M., Moro, J., Da Silva, L. A., Arras, C., Chagas, R. A. J., **Chen, S. S.**, Marchezi, J. P., Carmo, C. S., Picanço, G. A. S., Silva, R. P., Wang, C., Li, H., and Liu, Z. (2022).  Worldwide Study of the Sporadic E (Es) Layer Development during a Space Weather Event. *Journal of Atmospheric and Solar-Terrestrial Physics*. *https://doi.org/10.1016/j.jastp.2022.105966*
 
