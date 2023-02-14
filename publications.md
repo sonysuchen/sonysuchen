@@ -36,6 +36,7 @@
 
 1. Resende, L. C. A., Shi, J., Denardini, C. M., Batista, I. S., Picanço, G. A. S., Moro, J., Chagas, R. A. J., Barros, D., **Chen, S. S.**, Nogueira, P. A. B., Andrioli, V. F., Silva, R. P., Carrasco, A. J., De Araujo, R. C., Wang, C., Liu, Z. (2021). The Impact of the Disturbed Electric Field in the Sporadic E (Es) Layer Development Over Brazilian Region. *Journal of Geophysical Research: Space Physics*, 126, 2, e2020JA028598. *https://doi.org/10.1029/2020JA028598*
 
+1. Moro, J., Xu, J., Denardini, C. M., Resende, L. C. A., Neto, P. F. B., Da Silva, L. A., Silva, R. P., Chen, S. S., Picanço, G. A. S., Carmo, C. S., Liu, Z., Yan, C., Wang, C., Schuch, N. J. (2021). First look at a geomagnetic storm with Santa Maria Digisonde data: F region responses and comparisons over the American sector. *Journal of Geophysical Research: Space Physics*, 126, e2020JA028663. *https://doi.org/10.1029/2020JA028663*
 
 
 1. **Chen, S. S.**, Denardini, C. M., Resende, L. C. A., Chagas, R. A. J., Moro, J., Picanço, G. A. S. (2020). Development of an empirical model for estimating the quiet day curve (QDC) over the Brazilian sector. *Radio Science*, 55, e2020RS007105. *https://doi.org/10.1029/2020RS007105*
