@@ -5,12 +5,6 @@
 - 📧 sony.chen@inpe.br
 <!--
 - 📞 +55 (12) 3208-7155
--->
-- 🏢 [Leibniz Institute of Atmospheric Physics (IAP)](https://www.iap-kborn.de/en/home/)
-- 🏙 Kühlungsborn, Germany 
-- 📧 chen@iap-kborn.de
-<!--
-- 📞 
 -->  
 ## info
 
