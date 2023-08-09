@@ -4,7 +4,7 @@
 
 <!--- Published --->
 
-1. Carmo, C. S., Dai, L., Denardini, C. M., Figueiredo, C. A. O. B.s, Wrasse, C. M., Resende, L. C. A., Barros, D., Moro, J. **Chen, S. S.**, Picanço, G. A. S., Silva, R. P., Wang, C., Li, H., Liu, Z. (2023). Equatorial Plasma Bubbles features over the Brazilian sector according to the solar cycle and geomagnetic activity level. *Frontiers in Astronomy and Space Sciences*
+1. Carmo, C. S., Dai, L., Denardini, C. M., Figueiredo, C. A. O. B.s, Wrasse, C. M., Resende, L. C. A., Barros, D., Moro, J. **Chen, S. S.**, Picanço, G. A. S., Silva, R. P., Wang, C., Li, H., and Liu, Z. (2023). Equatorial Plasma Bubbles features over the Brazilian sector according to the solar cycle and geomagnetic activity level. *Frontiers in Astronomy and Space Sciences*.
 
 1. Resende, L. C. A., Zhu, Y., Denardini, C. M., Chagas, R. A. J., Da Silva, L. A., Andrioli, V. F., Figueiredo, C. A. O. B., Marchezi, J. P., **Chen, S. S.**, Moro, J., Silva, R. P., Li, H., Wang, C., and Liu, Z. (2023). Analysis of the different physical mechanisms in the atypical sporadic E (Es) layer occurrence over a low latitude region in the Brazilian Sector. *Frontiers in Astronomy and Space Sciences*. *https://doi.org/10.3389/fspas.2023.1193268*
 
