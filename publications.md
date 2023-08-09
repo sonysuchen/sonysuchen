@@ -4,7 +4,11 @@
 
 <!--- Published --->
 
-1. Silva, R. P., Denardini, C. M., Resende, L. C. A., Moro, J., Sousasantos, J., Carmo, C. S., **Chen, S. S.**, Barbosa Neto, P. F., Picanço, G. A. S., Campelo, J. F. B., Borba, G. L., &#38; Santos, M. A. F. (2023). Latitudinal responses of the ionosphere over South America during HILDCAA intervals: case studies. *Advances in Space Research*. *https://doi.org/10.1016/j.asr.2023.02.020*
+1. Carmo, C. S., Dai, L., Denardini, C. M., Figueiredo, C. A. O. B.s, Wrasse, C. M., Resende, L. C. A., Barros, D., Moro, J. **Chen, S. S.**, Picanço, G. A. S., Silva, R. P., Wang, C., Li, H., Liu, Z. (2023). Equatorial Plasma Bubbles features over the Brazilian sector according to the solar cycle and geomagnetic activity level. *Frontiers in Astronomy and Space Sciences*
+
+1. Resende, L. C. A., Zhu, Y., Denardini, C. M., Chagas, R. A. J., Da Silva, L. A., Andrioli, V. F., Figueiredo, C. A. O. B., Marchezi, J. P., **Chen, S. S.**, Moro, J., Silva, R. P., Li, H., Wang, C., and Liu, Z. (2023). Analysis of the different physical mechanisms in the atypical sporadic E (Es) layer occurrence over a low latitude region in the Brazilian Sector. *Frontiers in Astronomy and Space Sciences*. *https://doi.org/10.3389/fspas.2023.1193268*
+
+1. Silva, R. P., Denardini, C. M., Resende, L. C. A., Moro, J., Sousasantos, J., Carmo, C. S., **Chen, S. S.**, Barbosa Neto, P. F., Picanço, G. A. S., Campelo, J. F. B., Borba, G. L., and Santos, M. A. F. (2023). Latitudinal responses of the ionosphere over South America during HILDCAA intervals: case studies. *Advances in Space Research*. *https://doi.org/10.1016/j.asr.2023.02.020*
 
 1. **Chen, S. S.**, Resende, L. C. A., Denardini, C. M., Chagas, R. A. J., Da Silva, L. A., Marchezi, J. P., Moro, J., Nogueira, P. A. B., Santos, A. M., Jauer, P. R., Carmo, C. S., Picanço, G. A. S., and Silva, R. P. (2023). The 14 December 2020 total solar eclipse effects on geomagnetic field variations and plasma density over South America. *Journal of Geophysical Research: Space Physics*, 128, e2022JA030775. *https://doi.org/10.1029/2022JA030775*
 
