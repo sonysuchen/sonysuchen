@@ -4,7 +4,9 @@
 
 <!--- Published --->
 
-1. Carmo, C. S., Dai, L., Denardini, C. M., Figueiredo, C. A. O. B.s, Wrasse, C. M., Resende, L. C. A., Barros, D., Moro, J. **Chen, S. S.**, Picanço, G. A. S., Silva, R. P., Wang, C., Li, H., and Liu, Z. (2023). Equatorial Plasma Bubbles features over the Brazilian sector according to the solar cycle and geomagnetic activity level. *Frontiers in Astronomy and Space Sciences*.
+1. Da Silva, L. A., Shi, L., Vieira, L. E. A., Agapitov, O., Resende, L. C. A., Alves, L. R., Sibeck, D. G., Deggeroni, V., Marchezi, J. P., **Chen, S. S.**, Moro, J., Arras, C., Wang, C., Andrioli, V. F., Li, H., Liu, Z. (2023). Why can the auroral-type sporadic E layer be detected over the South American Magnetic Anomaly (SAMA) region? An investigation of a case study under the influence of the high-speed solar wind stream. *Frontiers in Astronomy and Space Sciences* *https://doi.org/10.3389/fspas.2023.1197430*
+
+1. Carmo, C. S., Dai, L., Denardini, C. M., Figueiredo, C. A. O. B.s, Wrasse, C. M., Resende, L. C. A., Barros, D., Moro, J. **Chen, S. S.**, Picanço, G. A. S., Silva, R. P., Wang, C., Li, H., and Liu, Z. (2023). Equatorial Plasma Bubbles features over the Brazilian sector according to the solar cycle and geomagnetic activity level. *Frontiers in Astronomy and Space Sciences*. *https://doi.org/10.3389/fspas.2023.1252511*
 
 1. Resende, L. C. A., Zhu, Y., Denardini, C. M., Chagas, R. A. J., Da Silva, L. A., Andrioli, V. F., Figueiredo, C. A. O. B., Marchezi, J. P., **Chen, S. S.**, Moro, J., Silva, R. P., Li, H., Wang, C., and Liu, Z. (2023). Analysis of the different physical mechanisms in the atypical sporadic E (Es) layer occurrence over a low latitude region in the Brazilian Sector. *Frontiers in Astronomy and Space Sciences*. *https://doi.org/10.3389/fspas.2023.1193268*
 
