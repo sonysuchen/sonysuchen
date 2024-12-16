@@ -17,7 +17,7 @@
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56591622000)
 - [Web of Science](https://www.webofscience.com/wos/author/record/277026)
 
-![](https://komarev.com/ghpvc/?username=sonysuchen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=sonysuchen&style=flat&abbreviated=true)
 
 ##
 
