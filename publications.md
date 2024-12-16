@@ -4,7 +4,11 @@
 
 <!--- Published --->
 
-1. **Chen, S. S.**, Denardini, C. M., Resende, L. C. A., Chagas, R. A. J., and Stolle, C. (2023). Tidal composition analysis of global Sq current system. *Journal of Geophysical Research: Space Physics*, 129, e2023JA032382. *https://doi.org/10.1029/2023ja032382*
+1. Resende, L. C. A., Zhu, Y., Santos, A. M., Chagas, R. A. J., Denardini, C. M., Arras, C., Da Silva, L. A., Nogueira, P. A. B., **Chen, S. S.**, Andrioli, V. F., Moro, J., Costa, J. R., Li, H., Wang, C., and Liu, Z. (2024). Nocturnal Sporadic Cusp‐Type Layer (Esc) Resulting From Anomalous Excess Ionization Over the SAMA Region During the Extreme Magnetic Storm on 11 May 2024. *Journal of Geophysical Research: Space Physics*, 129, e2023JA032382. *https://doi.org/10.1029/2024ja033167*
+
+1. Andrioli, V. F., Xu, J., Batista, P. P., Resende, L. C. A., Da Silva, L. A., Pimenta, A. A., Martins, MP. . P., Santos, A. M., Moro, J., Vieira, L. E. A., **Chen, S. S.**, Yang, G., Wang, C., and Liu, Z. (2024). Peculiar enhancement in the neutral K and Na layers observed during atypical E-region event in the South American magnetic anomaly (SAMA) region. *Frontiers in Astronomy and Space Sciences* *https://doi.org/10.3389/fspas.2024.1458148*
+
+1. **Chen, S. S.**, Denardini, C. M., Resende, L. C. A., Chagas, R. A. J., and Stolle, C. (2024). Tidal composition analysis of global Sq current system. *Journal of Geophysical Research: Space Physics*, 129, e2023JA032382. *https://doi.org/10.1029/2023ja032382*
 
 1. Da Silva, L. A., Shi, L., Vieira, L. E. A., Agapitov, O., Resende, L. C. A., Alves, L. R., Sibeck, D. G., Deggeroni, V., Marchezi, J. P., **Chen, S. S.**, Moro, J., Arras, C., Wang, C., Andrioli, V. F., Li, H., Liu, Z. (2023). Why can the auroral-type sporadic E layer be detected over the South American Magnetic Anomaly (SAMA) region? An investigation of a case study under the influence of the high-speed solar wind stream. *Frontiers in Astronomy and Space Sciences* *https://doi.org/10.3389/fspas.2023.1197430*
 
