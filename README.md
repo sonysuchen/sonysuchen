@@ -2,10 +2,7 @@
 
 - 🏢 [National Institute for Space Research (INPE)](https://www.gov.br/inpe/pt-br)
 - 🏙 São José dos Campos - SP, Brazil
-- 📧 sony.chen@inpe.br
-<!--
-- 📞 +55 (12) 3208-7155
--->  
+
 ## info
 
 - [Google Scholar](https://scholar.google.com.br/citations?user=863GZT8AAAAJ&hl=pt-BR)
