@@ -4,6 +4,10 @@
 
 <!--- Published --->
 
+1. Guizelli, L. M., Denardini, C. M., Moro, J., Resende, L. C. A., Chen, S. S., & Nyassor, P. K. (2026). Assessing magnetic fluctuations effects in the South American sector in relation to global variations using Ksa index, Kp index, and hybrid formats during quiet times across the seasons of the 2020 solar minimum. *Journal of Geophysical Research: Space Physics*, 131, e2025JA034354. *https://doi.org/10.1029/2025JA034354*
+
+1. Resende, L. C. A., Zhu, Y., Chagas, R. A. J., Denardini, C. M., Espinosa, K. V. S., Chen, S. S., et al. (2025). Extra ionization causing the anomalous auroral sporadic E layer (Esa) over the equatorial Brazilian region during the recovery phase of the magnetic storm on May 10, 2024. *Space Weather*, 23, e2025SW004669. *https://doi.org/10.1029/2025SW004669*
+
 1. Resende, L. C. A., Zhu, Y., Santos, A. M., Chagas, R. A. J., Denardini, C. M., Arras, C., Da Silva, L. A., Nogueira, P. A. B., **Chen, S. S.**, Andrioli, V. F., Moro, J., Costa, J. R., Li, H., Wang, C., and Liu, Z. (2024). Nocturnal Sporadic Cusp‐Type Layer (Esc) Resulting From Anomalous Excess Ionization Over the SAMA Region During the Extreme Magnetic Storm on 11 May 2024. *Journal of Geophysical Research: Space Physics*, 129, e2023JA032382. *https://doi.org/10.1029/2024ja033167*
 
 1. Andrioli, V. F., Xu, J., Batista, P. P., Resende, L. C. A., Da Silva, L. A., Pimenta, A. A., Martins, MP. . P., Santos, A. M., Moro, J., Vieira, L. E. A., **Chen, S. S.**, Yang, G., Wang, C., and Liu, Z. (2024). Peculiar enhancement in the neutral K and Na layers observed during atypical E-region event in the South American magnetic anomaly (SAMA) region. *Frontiers in Astronomy and Space Sciences* *https://doi.org/10.3389/fspas.2024.1458148*
